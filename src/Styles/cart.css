@@ -1,0 +1,17 @@
+.div-cart {
+  color: rgb(233, 25, 25);
+  background-color: rgb(243, 211, 211);
+  padding: 15px;
+}
+
+.h2-cart {
+  text-transform: uppercase;
+}
+
+.ul-cart {
+  list-style: none;
+}
+
+.ul-cart li {
+  margin: 5px;
+}

@@ -1,0 +1,19 @@
+.div-banner {
+  color: rgb(228, 18, 18);
+  text-align: right;
+  padding: 32px;
+  border-bottom: solid 3px rgb(228, 18, 18);
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  align-items: center;
+}
+
+.h1-title {
+  padding-left: 32px;
+}
+
+.img-logo {
+  height: 65px;
+  width: 65px;
+}
